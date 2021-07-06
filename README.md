@@ -1,1 +1,1 @@
-# maze-game
+# maze-game using canvas API and Matter JS
