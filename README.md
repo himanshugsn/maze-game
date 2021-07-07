@@ -1,1 +1,1 @@
-# maze-game using canvas API and Matter JS
+# 🎮 maze-game using canvas API and Matter JS
